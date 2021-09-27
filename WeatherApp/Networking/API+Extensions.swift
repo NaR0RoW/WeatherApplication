@@ -2,7 +2,7 @@ import Foundation
 
 struct API {
     
-    static let key = "9898f76611dba534c9d721073a297ccf"
+    static let key = ""
 }
 
 extension API {
